@@ -1,0 +1,18 @@
+{
+  "name": "declarative-konva",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "@gloch96/typed-getters": "^1.0.1",
+    "konva": "^9.2.2"
+  }
+}
